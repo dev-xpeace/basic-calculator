@@ -1,0 +1,38 @@
+C:\Users\90507\Desktop\Codes C#\trying1\bin\Debug\net7.0\trying1.exe
+C:\Users\90507\Desktop\Codes C#\trying1\bin\Debug\net7.0\trying1.deps.json
+C:\Users\90507\Desktop\Codes C#\trying1\bin\Debug\net7.0\trying1.runtimeconfig.json
+C:\Users\90507\Desktop\Codes C#\trying1\bin\Debug\net7.0\trying1.dll
+C:\Users\90507\Desktop\Codes C#\trying1\bin\Debug\net7.0\trying1.pdb
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.dll
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\refint\trying1.dll
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.pdb
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\trying1.genruntimeconfig.cache
+C:\Users\90507\Desktop\Codes C#\trying1\obj\Debug\net7.0\ref\trying1.dll
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.dll
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\refint\trying1.dll
+C:\Users\90507\Desktop\Codes C#\User Input\obj\Debug\net7.0\trying1.pdb
+C:\Users\90507\Desktop\Codes C#\Github\trying1\bin\Debug\net7.0\trying1.exe
+C:\Users\90507\Desktop\Codes C#\Github\trying1\bin\Debug\net7.0\trying1.deps.json
+C:\Users\90507\Desktop\Codes C#\Github\trying1\bin\Debug\net7.0\trying1.runtimeconfig.json
+C:\Users\90507\Desktop\Codes C#\Github\trying1\bin\Debug\net7.0\trying1.dll
+C:\Users\90507\Desktop\Codes C#\Github\trying1\bin\Debug\net7.0\trying1.pdb
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.dll
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\refint\trying1.dll
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.pdb
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\trying1.genruntimeconfig.cache
+C:\Users\90507\Desktop\Codes C#\Github\trying1\obj\Debug\net7.0\ref\trying1.dll
